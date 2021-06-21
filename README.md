@@ -2,7 +2,7 @@
 # Building Cybersecurity Lab for Attack and Defense
 
 
-![Lab Setup](https://imgyukle.com/i/jPbqEs)
+
 
 ## Team Members
 

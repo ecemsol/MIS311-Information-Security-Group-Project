@@ -1,7 +1,7 @@
 # MIS311-Information-Security-Group-Project
 # Building Cybersecurity Lab for Attack and Defense
 
-
+The goal of this research was to expose how to brute-force vulnerable computers using Kali Linux and Security Onion.
 
 
 ## Team Members
